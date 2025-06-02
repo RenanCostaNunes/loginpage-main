@@ -2,7 +2,7 @@
 Library    SeleniumLibrary
 
 *** Variables ***
-${LOGIN_PAGE}         C:\\Users\\renan\\loginpage-main\\index.html
+${LOGIN_PAGE}         http://localhost:8000
 ${BROWSER}            chrome
 ${VALID_USER}         admin
 ${VALID_PASSWORD}     123456
